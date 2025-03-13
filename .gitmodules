@@ -1,9 +1,9 @@
 [submodule "2d_pathfinder"]
-	path = 2d_pathfinder
-	url = ./2d_pathfinder
+	path = ./2d_pathfinder
+	url = https://github.com/mog-wk/2d_pathfinder
 [submodule "2d_ray_tracing"]
-	path = 2d_ray_tracing
-	url = ./2d_ray_tracing
+	path = ./2d_ray_tracing
+	url = https://github.com/mog-wk/2d_raycast
 [submodule "2d_water_sim"]
-	path = 2d_water_sim
-	url = ./2d_water_sim
+	path = ./2d_water_sim
+	url = https://github.com/mog-wk/2d_water
